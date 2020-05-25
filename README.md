@@ -65,6 +65,10 @@ The explanation is written in both korean and english.
 
 #### Matrix Chain Multiplication
 
+주로 한국어로는 연쇄 행렬 곱셈으로 불리운다. 
+
+(추가적으로 진행해야함)
+
 ### Greedy Algorithms
 
 #### Prim’s Minimum Spanning Tree Algorithm
